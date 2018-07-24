@@ -1,12 +1,15 @@
 a = "Hello"
 b = "World"
 
-#c = a + b
+c = a + b
+print(c)
 
-#print(c)
+c = a +" "+ b
+print(c)
+
 #a += b
 #print(a)
 
 # String Subtraction Not Supported
-a -= b
-print(a)
+#a -= b
+#print(a)
