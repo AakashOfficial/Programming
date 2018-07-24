@@ -1,6 +1,8 @@
 a = "Hello"
 b = "World"
 
-c = a + b
+#c = a + b
 
-print(c)
+#print(c)
+a += b
+print(a)
